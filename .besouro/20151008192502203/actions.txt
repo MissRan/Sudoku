@@ -96,3 +96,4 @@ RefactoringAction 1444328424516 SudokuVerifier.java REMOVE of FIELD
 RefactoringAction 1444328424516 SudokuVerifier.java REMOVE of/2 FIELD
 RefactoringAction 1444328424517 SudokuVerifier.java REMOVE game FIELD
 EditAction 1444328697962 SudokuVerifier.java 1672 8 16 0
+EditAction 1444328927869 TestSudokuVerifier.java 354 1 4 1
