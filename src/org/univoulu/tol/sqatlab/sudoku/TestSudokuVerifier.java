@@ -1,4 +1,4 @@
-// Huangfeiran
+// Feiran Huang
 package org.univoulu.tol.sqatlab.sudoku;
 
 import static org.junit.Assert.*;
